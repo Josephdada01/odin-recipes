@@ -22,8 +22,16 @@
 }
 .one,
 .step-listing,
-.ingridient-listing,
-.ending{
+.ingridient-listing{
     color-interpolation-filters: linearRGB;
-    color: #333
+    color: black;
+    max-width: 85%;
+    margin: 0 auto;
+    padding: 5;
+}
+.ending{
+    color: black;
+    max-width: 85%;
+    margin: 0 auto;
+    padding: 5;
 }
