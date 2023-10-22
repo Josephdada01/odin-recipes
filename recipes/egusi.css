@@ -9,16 +9,17 @@ body{
     font-size: 1rem;
     line-height: 1.5;
 }
-@media (max-width: 700px){
+@media (max-width: 500px){
     body {
         font-size: 0.9rem;
     }
 }
-img {
+.egusi{
     max-width: 100%;
     display: block;
     width: 100%;
-    height: auto;   
+    height: auto;
+    background: url("images/egusi.jpg") no-repeat center;   
 }
 div h1{
     text-align: center;
