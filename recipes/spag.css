@@ -1,0 +1,31 @@
+body{
+    background-color: #BFB29E;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    scroll-behavior: smooth;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+    color: black;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+@media (max-width: 768px){
+    body {
+        font-size: 0.9rem;
+    }
+}
+.spag-image{
+    max-width: 100%;
+    display: block;
+    width: 100%;
+    height: auto;   
+}
+header h1{
+    text-align: center;
+}
+div h2{
+    text-align: center;
+}
+section h2{
+    text-align: center;
+}
