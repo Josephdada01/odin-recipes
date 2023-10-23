@@ -9,10 +9,12 @@ body{
     font-size: 1rem;
     line-height: 1.5;
 }
-@media (max-width: 500px){
-    body {
-        font-size: 0.9rem;
-    }
+
+p, li {
+    font-size: 1.0rem;
+    max-width: auto;
+    text-align: justify;
+    margin: 15px;
 }
 img {
     max-width: 100%;
@@ -28,4 +30,7 @@ div h2{
 }
 section h2{
     text-align: center;
+}
+h4 {
+    margin: 15px;
 }
