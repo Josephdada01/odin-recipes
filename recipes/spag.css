@@ -7,20 +7,20 @@ body{
     padding: 0%;
     color: black;
     font-size: 1rem;
-    line-height: 1.5;
+    line-height: 1.0;
 }
 
 p, li {
     font-size: 1.0rem;
     text-align: justify;
-    margin: 15px;
+    margin: 30px;
 }
-.spag {
+img {
     max-width: 100%;
     display: block;
     width: 100%;
     height: auto;
-    background: url("images/spag.png") no-repeat center;  
+    background: no-repeat center; 
 }
 header h1{
     text-align: center;

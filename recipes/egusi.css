@@ -1,5 +1,5 @@
-body{
-    background-color: #B4B4B3;
+body {
+    background-color: #FFF2D8;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     scroll-behavior: smooth;
     height: 100%;
@@ -7,19 +7,19 @@ body{
     padding: 0%;
     color: black;
     font-size: 1rem;
-    line-height: 1.5;
+    line-height: 1.0;
 }
 p, li {
     font-size: 1.0rem;
     text-align: justify;
-    margin:15px;
+    margin: 30px;
 }
-.egusi{
+img {
     max-width: 100%;
     display: block;
     width: 100%;
     height: auto;
-    background: url("images/egusi.png") no-repeat center;   
+    background: no-repeat center;  
 }
 div h1{
     text-align: center;
